@@ -1,0 +1,21 @@
+{
+  "name": "dodo-payments-code",
+  "displayName": "Dodo Payments",
+  "version": "0.1.0",
+  "description": "Connect Cursor / Grok Bot to Dodo Payments via the official remote MCP servers (API Code Mode + Knowledge docs search). Create payments, manage subscriptions, refunds, licenses, and usage billing. Requires a Dodo Payments API key (OAuth on first connect).",
+  "author": {
+    "name": "Lovin Maxwell",
+    "email": "lovinmaxwell@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "dodo",
+    "dodopayments",
+    "payments",
+    "billing",
+    "subscriptions",
+    "mcp"
+  ],
+  "logo": "assets/logo.png",
+  "skills": "./skills/"
+}
